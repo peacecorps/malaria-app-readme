@@ -26,10 +26,16 @@ Also included in this repository for reference and background are two recent stu
 
 Contact Information:
 
+
 Patrick Choquette
+
 Director of the Office of Innovation
+
 pchoquette@peacecorps.gov
 
+
 Matthew McAllister
+
 Special Assistant in the Office of Innovation
+
 mmcallister@peacecorps.gov

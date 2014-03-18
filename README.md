@@ -8,7 +8,9 @@ Malaria App Project
 This malaria-app-readme repository is intended to be the central repo for discussions, decision making, and feedback about the project goals and features so that the user experience across platforms is uniform. Comments and coding for a specific platform can happen at the repositories linked to below.
 
 Link to iOS Repo: https://github.com/PeaceCorps/malaria-app-ios
+
 Link to Android Repo: https://github.com/PeaceCorps/malaria-app-android
+
 Link to Web Server Support Repo (If Needed): https://github.com/PeaceCorps/malaria-app-web-server
 
 
